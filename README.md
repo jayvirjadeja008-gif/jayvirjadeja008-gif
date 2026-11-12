@@ -1,88 +1,21 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+<h1 align="center">Hi 👋, I'm Jayvir Jadeja</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"  alt="coding width="50" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayvirjadeja008-gif&label=Profile%20views&color=0e75b6&style=flat" alt="jayvirjadeja008-gif" /> </p>
 
-<!-- Dynamic Typing SVG & Profile Views -->
-<div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-  <br />
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
+- 📫 How to reach me **jayvirjadeja008@gmail.com**
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jayvir-jadeja-66643743a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayvir-jadeja-66643743a/" height="30" width="40" /></a>
+<a href="https://instagram.com/totallynot.jayvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="totallynot.jayvir" height="30" width="40" /></a>
+</p>
 
-<!-- Bio & Coding Illustration Table (No Borders Trick via Alignment) -->
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <h3>⚡ <code>whoami</code> — About Me</h3>
-      <ul>
-        <li>👋 Hey there! I'm <strong>Jayvir Jadeja</strong>, a frontend developer based in <strong>India</strong>.</li>
-        <li>🎨 I love bridging the gap between <strong>clean code</strong> and <strong>pixel-perfect design</strong> using JavaScript, Figma, and Illustrator.</li>
-        <li>☁️ Currently leveling up my backend & infrastructure game with <strong>AWS, GCP, Docker, and C</strong>.</li>
-        <li>📫 Reach out anytime at <a href="mailto:jayvirjadeja008@gmail.com"><strong>jayvirjadeja008@gmail.com</strong></a>.</li>
-      </ul>
-      <br />
-      <!-- Social Links -->
-      <p>
-        <a href="https://linkedin.com/in/jayvir-jadeja-66643743a/" target="_blank">
-          <img src="https://shields.io" alt="LinkedIn" />
-        </a>
-        <a href="https://instagram.com/totallynot.jayvir" target="_blank">
-          <img src="https://shields.io" alt="Instagram" />
-        </a>
-        <a href="mailto:jayvirjadeja008@gmail.com">
-          <img src="https://shields.io" alt="Gmail" />
-        </a>
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="260" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayvirjadeja008-gif&show_icons=true&locale=en&layout=compact" alt="jayvirjadeja008-gif" /></p>
 
-<!-- Tech Arsenal -->
-<div align="center">
-  <h3>🛠️ Tech Arsenal & Design Tools</h3>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev" alt="Tech Stack" />
-    </a>
-  </p>
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayvirjadeja008-gif&show_icons=true&locale=en" alt="jayvirjadeja008-gif" /></p>
 
-<br />
-
-<!-- GitHub Analytics Dashboard -->
-<div align="center">
-  <h3>📊 Live GitHub Analytics</h3>
-  <p>
-    <img height="180em" src="https://vercel.app" alt="Jayvir's GitHub Stats" />
-    <img height="180em" src="https://vercel.app" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://herokuapp.com" alt="GitHub Streak" />
-  </p>
-</div>
-
-<br />
-
-<!-- Contribution Snake / Footer -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayvirjadeja008-gif&" alt="jayvirjadeja008-gif" /></p>
